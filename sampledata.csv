@@ -1,0 +1,11 @@
+id,product,category,price,quantity,sale_date,region
+1,Widget A,Electronics,19.99,100,2023-01-15,North
+2,Gadget B,Electronics,29.99,150,2023-02-20,South
+3,Widget C,Home,24.99,200,2023-03-05,West
+4,Gadget D,Home,34.99,120,2023-04-12,East
+5,Widget E,Electronics,39.99,90,2023-05-18,North
+6,Gadget F,Home,44.99,60,2023-06-22,South
+7,Widget G,Outdoors,49.99,300,2023-07-30,West
+8,Gadget H,Outdoors,54.99,80,2023-08-16,East
+9,Widget I,Electronics,59.99,110,2023-09-25,North
+10,Gadget J,Home,64.99,50,2023-10-03,South
